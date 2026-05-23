@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Once+I'm+Alive...;0xdeadw4r;Security+Researcher;Open+Source+Contributor" alt="0xdeadw4r" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=nce%20I'm%20Alive" alt="0xdeadw4r" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=0xdeadw4r&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/0xdeadw4r)
 [![GitHub followers](https://img.shields.io/github/followers/0xdeadw4r?label=Followers&style=flat-square&color=58a6ff)](https://github.com/0xdeadw4r?tab=followers)
@@ -82,44 +82,8 @@
 </picture>
 </div>
 
-> ⚙️ **Snake setup:** Add the workflow below to `.github/workflows/snake.yml` in this repo to auto-generate the snake animation daily.
-
-<details>
-<summary>📄 snake.yml workflow</summary>
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
 ---
+
 
 <div align="center">
 <sub>⭐ Star my repos if you find them useful!</sub>
