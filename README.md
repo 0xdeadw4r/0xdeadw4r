@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=nce%20I'm%20Alive" alt="0xdeadw4r" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Once%20I'm%20Alive" alt="0xdeadw4r" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=0xdeadw4r&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/0xdeadw4r)
 [![GitHub followers](https://img.shields.io/github/followers/0xdeadw4r?label=Followers&style=flat-square&color=58a6ff)](https://github.com/0xdeadw4r?tab=followers)
@@ -14,25 +14,25 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/Quick-Draw/PNG/quick-draw-default.png" width="90" alt="Quickdraw" /> &nbsp;
-<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/Pull-Shark/PNG/pull-shark-default.png" width="90" alt="Pull Shark" /> &nbsp;
-<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/YOLO/PNG/yolo-default.png" width="90" alt="YOLO" /> &nbsp;
-<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/Pair-Extraordinaire/PNG/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire" />
+<img src="./achievements/quickdraw-default.png" width="90" alt="Quickdraw" /> &nbsp;
+<img src="./achievements/pull-shark-default.png" width="90" alt="Pull Shark" /> &nbsp;
+<img src="./achievements/yolo-default.png" width="90" alt="YOLO" /> &nbsp;
+<img src="./achievements/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire" />
 
 **🤠 Quickdraw** &nbsp;&nbsp;&nbsp; **🦈 Pull Shark** &nbsp;&nbsp;&nbsp; **🎯 YOLO** &nbsp;&nbsp;&nbsp; **👥 Pair Extraordinaire**
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/Starstruck/PNG/starstruck-default.png" width="90" alt="Starstruck" /> &nbsp;
-<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/Galaxy-Brain/PNG/galaxy-brain-default.png" width="90" alt="Galaxy Brain" /> &nbsp;
-<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/Public-Sponsor/PNG/public-sponsor-default.png" width="90" alt="Public Sponsor" /> &nbsp;
-<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/Mars-2020-Contributor/PNG/mars-2020-contributor-default.png" width="90" alt="Mars 2020" />
+<img src="./achievements/starstruck-default.png" width="90" alt="Starstruck" /> &nbsp;
+<img src="./achievements/galaxy-brain-default.png" width="90" alt="Galaxy Brain" /> &nbsp;
+<img src="./achievements/public-sponsor-default.png" width="90" alt="Public Sponsor" /> &nbsp;
+<img src="./achievements/mars-2020-contributor-default.png" width="90" alt="Mars 2020" />
 
 **⭐ Starstruck** &nbsp;&nbsp;&nbsp; **🧠 Galaxy Brain** &nbsp;&nbsp;&nbsp; **💸 Public Sponsor** &nbsp;&nbsp;&nbsp; **🚀 Mars 2020**
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/Arctic-Code-Vault-Contributor/PNG/arctic-code-vault-contributor-default.png" width="90" alt="Arctic Code Vault" />
+<img src="./achievements/arctic-code-vault-contributor-default.png" width="90" alt="Arctic Code Vault" />
 
 **🧊 Arctic Code Vault**
 
